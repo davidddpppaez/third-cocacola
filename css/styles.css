@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.black {
+    padding: 20px;
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+.bg-orange, .orange {
+    background-color: white;
+    border: 1px solid orange;
+    text-align: center;
+}
+
+.orange {padding: 20px;}
+.pr-orange {height: 400px;}
+
+.bg-green, .green {
+    background-color: white;
+    border: 1px solid green;
+    text-align: center;
+}
+
+.green {padding: 20px;}
+.pr-green {height: 200px;}
+
+.bg-purple, .purple {
+    background-color: white;
+    border: 1px solid purple;
+    text-align: center;
+}
+
+.purple {padding: 20px;height: 200px;}
+
+.dot {border-radius: 50%; width: 50%; margin: 0 auto;}
